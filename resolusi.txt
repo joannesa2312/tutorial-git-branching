@@ -2,3 +2,4 @@ Resolusi 2022
 - Memahami git dan github
 - Memahami docker & kubernet
 - Memahami GCP
+- kolaborasi dengan lebih banyak exspert
